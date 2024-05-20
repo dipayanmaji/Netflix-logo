@@ -19,7 +19,8 @@ body {
   overflow: hidden;
 }
 #container netflixintro {
-  display: block;
+  display: none;
+  /* display: block; */
   position: relative;
   width: 300px;
   height: 300px;
